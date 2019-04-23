@@ -6,8 +6,7 @@
   "scripts": {
     "build": "webpack",
     "serve": "webpack-dev-server --open",
-    "watch": "webpack --watch",
-    "api": "json-server --watch --port 3000 db/db.json"
+    "watch": "webpack --watch"
   },
   "author": "",
   "license": "ISC",
